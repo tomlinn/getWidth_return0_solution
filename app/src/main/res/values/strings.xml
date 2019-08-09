@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">dOCR</string>
+
+    <string name="title_viewRumor">瀏覽謠言</string>
+    <string name="title_searchRumorByArticle">搜尋謠言</string>
+    <string name="title_takePhoto">拍照</string>
+    <string name="title_searchDatabase">搜尋資料庫</string>
+    <string name="title_setting">設定</string>
+
+    <string name="setting_性別">性別</string>
+    <string name="setting_生日">生日</string>
+    <string name="setting_體重">體重(Kg)</string>
+    <string name="setting_身高">身高(cm)</string>
+    <string name="setting_提示">請選擇需要關注的疾病飲食</string>
+    <string name="setting_糖尿病">糖尿病</string>
+    <string name="setting_高血壓">高血壓</string>
+    <string name="setting_腎病">腎病</string>
+    <string name="setting_蠶豆症">蠶豆症</string>
+
+    <string name="rumor_關鍵字詞或文章搜尋">關鍵字或文章搜尋</string>
+    <string name="rumor_搜尋">搜尋</string>
+    <string name="rumor_書籤提示">書籤</string>
+
+    <string name="activate_page1_歡迎使用">以OCR技術實現的個人健康飲食管理系統\n105316140 林青陽\n105316143 何星邑\n105316158 沈瑋樂</string>
+    <string name="activate_page1_開始使用">開始使用</string>
+    <string name="activate_page2_確定">確定</string>
+    <string name="activate_page3_開始使用">開始使用</string>
+
+    <string name="rumor_fragment_menu_全部">全部</string>
+    <string name="rumor_fragment_menu_書籤">書籤</string>
+    <string name="rumor_fragment_menu_食品">食品</string>
+    <string name="rumor_fragment_menu_藥品">藥品</string>
+    <string name="rumor_fragment_menu_化妝品">化妝品</string>
+    <string name="rumor_fragment_menu_醫療器材">醫療器材</string>
+    <string name="rumor_fragment_menu_華人健康網">華人健康網</string>
+
+    <string name="rumor_search_radiobutton_關鍵字">關鍵字</string>
+    <string name="rumor_search_radiobutton_文章">文章</string>
+
+    <string name="takePhoto_fragment_裁切提示">*請在拍照/選擇照片後 將圖片和資訊無關的地方裁切掉 留下文字內容</string>
+    <string name="takePhoto_fragment_拍照">拍照</string>
+    <string name="takePhoto_fragment_從手機選擇">從手機選擇</string>
+
+    <string name="nutririon_fragment_處理中">處理中</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
